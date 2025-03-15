@@ -52,7 +52,8 @@ With skills in **HTML, CSS, JavaScript, Kotlin and  Firebase**, I love solving c
 
 ## 📫 How to reach me  
 
-- 📧 Email: [gajeramahek21@gmail.com](mailto:gajeramahek21@gmail.com)  
+- 📧 Email: [gajeramahek21@gmail.com](mailto:gajeramahek21@gmail.com)
+- 💼 LinkedIn: [Mahek Gajera](https://www.linkedin.com/in/mahekgajera/)  
 
 ---
 
